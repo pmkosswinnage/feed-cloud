@@ -780,7 +780,7 @@ DashboardAsset::register($this);
     <footer class="footer">
     <div class="container">
         <p class="pull-left"><?= Yii::powered() ?> </p>
-        <p class="pull-right">&copy; K. Pradeep Manjula: MedOne-E-Channeling @ <?= date('Y') ?></p>
+        <p class="pull-right">&copy; K. Pradeep Manju: MedOne-E-Channeling @ <?= date('Y') ?></p>
     </div>
     </footer>
 
